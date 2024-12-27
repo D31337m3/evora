@@ -18,7 +18,7 @@ Ensures that only the intended recipients can read the messages.
 ### Decentralization:
 Eliminates central points of failure and enhances security.
 
-###Scalability:
+### Scalability:
 Leveraging Polygon's scalability, Evora can handle high volumes of messages without compromising performance.
 
 ### User Control:
@@ -30,13 +30,13 @@ Automate processes and enhance functionality with smart contracts.
 ### Message Integrity:
 Cryptographic signatures and hashing techniques to prevent forgeries and alterations during transit.
 
-###Non-repudiation:
+### Non-repudiation:
 Ensures that senders cannot deny their messages, enhancing accountability.
 
 ### Plagiarism Detection:
 Advanced algorithms to detect and prevent plagiarism within the platform.
 
-#Technology Stack
+# Technology Stack
 ### Blockchain:
 Polygon-based network Evolution for scalable and secure transactions.
 
@@ -50,15 +50,19 @@ Advanced cryptographic algorithms for secure communication.
 Intuitive and user-friendly interface built with modern web technologies.
 
 # Use Cases
-Personal Messaging: Secure personal communication with privacy ensured.
+### Personal Messaging:
+Secure personal communication with privacy ensured.
 
-Enterprise Communication: Secure and efficient communication for businesses, protecting sensitive information.
+### Enterprise Communication:
+Secure and efficient communication for businesses, protecting sensitive information.
 
-Decentralized Applications: Integrate messaging into dApps, enhancing functionality and user experience.
+### Decentralized Applications:
+Integrate messaging into dApps, enhancing functionality and user experience.
 
-Legal and Professional Services: Ensuring the integrity and authenticity of sensitive communications in legal and professional fields.
+### Legal and Professional Services:
+Ensuring the integrity and authenticity of sensitive communications in legal and professional fields.
 
-Roadmap
+#Roadmap
 Q1 2025: Launch of Evora MVP with core messaging features.
 
 Q2 2025: Integration of smart contracts and additional security enhancements.
@@ -67,5 +71,5 @@ Q3 2025: Expansion of user base and partnerships with key stakeholders.
 
 Q4 2025: Full public release with complete feature set and user control functionalities.
 
-Conclusion
+#Conclusion
 Evora aims to revolutionize the messaging landscape by providing a secure, scalable, and decentralized solution. By leveraging the strengths of the Polygon-based network Evolution, Evora ensures that user privacy, data security, and message integrity are upheld, paving the way for a new era of communication.
