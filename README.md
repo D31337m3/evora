@@ -1,8 +1,8 @@
-Evora: Secure Blockchain-Based Messaging Platform
-Abstract
+# Evora: Secure Blockchain-Based Messaging Platform
+## Abstract
 Evora is a revolutionary messaging platform leveraging the security and scalability of the Polygon-based network Evolution. Designed to ensure privacy, integrity, and decentralization, Evora aims to redefine secure communication in the digital age. This whitepaper outlines the core features, technology, and potential impact of Evora.
 
-Introduction
+## Introduction
 In an era where data privacy is paramount, traditional messaging platforms often fall short in securing user data. Evora addresses these concerns by utilizing blockchain technology to create a secure, decentralized, and efficient messaging solution.
 
 Problem Statement
